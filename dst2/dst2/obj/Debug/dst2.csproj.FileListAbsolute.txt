@@ -1,0 +1,7 @@
+C:\Users\МикитаКисіль\source\repos\dst2\dst2\bin\Debug\dst2.exe.config
+C:\Users\МикитаКисіль\source\repos\dst2\dst2\bin\Debug\dst2.exe
+C:\Users\МикитаКисіль\source\repos\dst2\dst2\bin\Debug\dst2.pdb
+C:\Users\МикитаКисіль\source\repos\dst2\dst2\obj\Debug\dst2.csprojAssemblyReference.cache
+C:\Users\МикитаКисіль\source\repos\dst2\dst2\obj\Debug\dst2.csproj.CoreCompileInputs.cache
+C:\Users\МикитаКисіль\source\repos\dst2\dst2\obj\Debug\dst2.exe
+C:\Users\МикитаКисіль\source\repos\dst2\dst2\obj\Debug\dst2.pdb
