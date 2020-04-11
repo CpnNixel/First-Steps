@@ -1,6 +1,3 @@
-# First-Steps
-Mini-projects created during university study-process back in 2018-2019. 
-
 LAB#2. Creating a class BBST (Balanced Binary Search Tree) and experimenting with its objects.
 Aims: 
 -	Learn how to define and implement class BBST that includes such basic methods: isEmpty(), isFull(), size(), addItem(), deleteItem(), search(), rintTree_preorder(),printTree_inorder(),printTree_postorder().
